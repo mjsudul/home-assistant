@@ -1,3 +1,8 @@
+# This is a template for the Sonoff S31 devices that use an ESP8266 microprocessor. 
+# Replace the fields enclosed in double angle brackets <<value>> with the actual device values from the device's 
+# default config.yaml file generated when the device is created by the HomeAssistant ESPHome add-in. 
+# Do not include the double angle brackets # in the actual config file.
+
 # ESPHome device definition
 esphome:
   name: <<my-device-name>>  # Unique device ID used in ESPHome and Home Assistant
